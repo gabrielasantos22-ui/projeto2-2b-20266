@@ -12,5 +12,18 @@ img {
     height: 550px;
 }
 
-main{
+main {
     display: inline;
+}
+
+a {
+    width: 280px;
+    height: 79px;
+    background-color: blueviolet;
+}
+
+
+
+
+   
+
