@@ -19,8 +19,9 @@ main {
 a {
     width: 280px;
     height: 79px;
-    background-color: blueviolet;
+    background-color: rgb(41, 47, 54);
     border-radius: 16px;
+    padding: 16px;
 }
 
 
